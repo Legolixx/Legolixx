@@ -18,7 +18,6 @@ I'm currently diving deep into **React** and **AWS** as I build my web developme
 
 # 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-fazekas/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 
 
 <picture>
